@@ -1,0 +1,167 @@
+
+#part3{
+    background-color: rgb(255, 0, 76);
+    height:25;
+    padding: 5px;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20;
+       animation-name: pikachu;
+       border: 1px solid black;
+       animation-duration: 3s;
+       animation-iteration-count: infinite;
+    }
+     @keyframes pikachu {
+       from{width:1105;}
+       to{width:1105;}
+       from{height:20;}
+       to{height:20;}
+       from{background-color:rgb(107, 203, 244);}
+       to{background-color:rgba(247, 251, 243, 0.918);}
+       
+       
+    }
+ 
+.container{
+    background-color: (243, 243, 245, 0.973);
+    display: flex;
+    flex-wrap:wrap ;
+    padding: 25px;
+    padding-left: 5;
+    align-items: center;
+    column-gap: 320px;
+    row-gap: 90px;
+
+ }
+ #p1{
+    border: 3px solid rgb(2, 2, 0);
+    border-radius: 10px;
+    border-left: 5px;
+    border-color: lightseagreen;
+    padding: 10px;
+    align-items: center;
+}
+#p2{
+    border: 3px solid rgb(2, 2, 0);
+    border-radius: 15px;
+    border-left: 5px;
+    border-color: lightseagreen;
+    padding: 10px;
+    align-items: center;
+}
+#p3{
+    border: 3px solid rgb(2, 2, 0);
+    border-radius: 15px;
+    border-left: 5px;
+    border-color: lightseagreen;
+    padding: 10px;
+    align-items: center;
+}
+.container1{
+    background-color: (243, 243, 245, 0.973);
+    display: flex;
+    flex-wrap: wrap ;
+    padding: 25px;
+    padding-left: 5;
+    align-items: center;
+    column-gap: 300px;
+    row-gap: 90px;
+
+ }
+#p4{
+    border: 3px solid rgb(2, 2, 0);
+    border-radius: 15px;
+    border-left: 5px;
+    border-color: lightseagreen;
+    padding: 15px;
+    align-items: center;
+}
+#p5{
+    border: 3px solid rgb(2, 2, 0);
+    border-radius: 15px;
+    border-left: 5px;
+    border-color: lightseagreen;
+    padding: 20px;
+    align-items: center;
+}
+#p6{
+    border: 3px solid rgb(2, 2, 0);
+    border-radius: 15px;
+    border-left: 5px;
+    border-color: lightseagreen;
+    padding: 5px;
+    align-items: center;
+    width: 150;
+}
+
+.container1-1{
+    background-color: (243, 243, 245, 0.973);
+    display: flex;
+    flex-wrap: wrap;
+    padding: 25px;
+    padding-left: 5;
+    align-items: center;
+    justify-content: space-around;
+    column-gap: 300px;
+    row-gap: 90px;
+}
+#c1{
+    border: 3px solid rgb(2, 2, 0);
+    border-radius: 15px;
+    border-left: 5px;
+    border-color: lightseagreen;
+    padding: 5px;
+    align-items: center;
+}
+#c2{
+    border: 3px solid rgb(2, 2, 0);
+    border-radius: 15px;
+    border-left: 5px;
+    border-color: lightseagreen;
+    padding: 5px;
+    align-items: center;
+}
+#c3{
+    border: 3px solid rgb(2, 2, 0);
+    border-radius: 15px;
+    border-left: 5px;
+    border-color: lightseagreen;
+    padding: 5px;
+    align-items: center;
+}
+.container1-2{
+    background-color: (243, 243, 245, 0.973);
+    display: flex;
+    flex-wrap: wrap;
+    padding: 25px;
+    padding-left: 5;
+    align-items: center;
+    justify-content: space-around;
+    column-gap: 300px;
+    row-gap: 90px;
+}
+#c4{
+    border: 3px solid rgb(2, 2, 0);
+    border-radius: 15px;
+    border-left: 5px;
+    border-color: lightseagreen;
+    padding: 5px;
+    align-items: center;
+}
+#c5{
+    border: 3px solid rgb(2, 2, 0);
+    border-radius: 15px;
+    border-left: 5px;
+    border-color: lightseagreen;
+    padding: 5px;
+    align-items: center;
+}
+#c6{
+    border: 3px solid rgb(2, 2, 0);
+    border-radius: 15px;
+    border-left: 5px;
+    border-color: lightseagreen;
+    padding: 5px;
+    align-items: center;
+}
+

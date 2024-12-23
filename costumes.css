@@ -1,0 +1,178 @@
+#f{
+    background-color: rgb(239, 229, 140);
+    height:25;
+    padding: 5px;
+    align-items: center;
+    padding-left: 130;
+       animation-name: pikachu2;
+       border: 1px solid black;
+       animation-duration: 3s;
+       animation-iteration-count: infinite;
+    }
+     @keyframes pikachu2 {
+       from{width:1105;}
+       to{width:1105;}
+       from{height:30;}
+       to{height:30;}
+       from{background-color:rgb(243, 243, 234);}
+       to{background-color:rgb(236, 239, 190);}
+     } 
+
+
+.container5{
+    background-color:rgb(235, 247, 235);
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px;
+    padding-left: 20px;
+    align-items: center;
+    column-gap: 250px;
+    row-gap: 50;
+
+ }
+  #f1{
+    border: 3px solid rgb(2, 2, 0);
+    border-radius: 15px;
+    border-left: 5px;
+    border-color: rgb(224, 222, 173);
+    padding: 10px;
+    align-items: left;
+    
+ }
+ #f2{
+    border: 3px solid rgb(2, 2, 0);
+    border-radius: 15px;
+    border-left: 5px;
+    border-color: rgb(224, 222, 173);
+    padding: 5px;
+    align-items: left;
+    
+}
+ #f3{
+    border: 3px solid rgb(2, 2, 0);
+    border-radius: 15px;
+    border-left: 5px;
+    border-color: rgb(224, 222, 173);
+    padding: 10px;
+    align-items: left;
+    
+}
+.container5-1{
+    background-color:rgb(235, 247, 235);
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px;
+    padding-left: 20px;
+    align-items: center;
+    column-gap: 220px;
+    row-gap: 50;
+
+ }
+
+#f4{
+    border: 3px solid rgb(2, 2, 0);
+    border-radius: 15px;
+    border-left: 5px;
+    border-color: rgb(224, 222, 173);
+    padding: 10px;
+    align-items: left;
+    
+}
+#f5{
+    border: 3px solid rgb(2, 2, 0);
+    border-radius: 15px;
+    border-left: 5px;
+    border-color: rgb(224, 222, 173);
+    padding: 5px;
+    align-items: left;
+    
+
+}
+#f6{
+    border: 3px solid rgb(2, 2, 0);
+    border-radius: 15px;
+    border-left: 5px;
+    border-color: rgb(224, 222, 173);
+    padding: 10px;
+    align-items: left;
+    
+
+}
+
+.container6{
+    background-color: rgb(235, 247, 235);
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px;
+    padding-left: 20px;
+    align-items: center;
+    justify-content: space-around;
+    column-gap: 250px;
+    row-gap: 50;
+ }
+#g1{
+    border: 3px solid rgb(2, 2, 0);
+    border-radius: 15px;
+    border-left: 5px;
+    border-color: rgb(224, 222, 173);
+    padding: 5px;
+    align-items: center;
+    
+}
+#g2{
+    border: 3px solid rgb(2, 2, 0);
+    border-radius: 15px;
+    border-left: 5px;
+    border-color: rgb(224, 222, 173);
+    padding: 5px;
+    align-items: center;
+    
+}
+#g3{
+    border: 3px solid rgb(2, 2, 0);
+    border-radius: 15px;
+    border-left: 5px;
+    border-color: rgb(224, 222, 173);
+    padding: 5px;
+    align-items: center;
+    
+}
+.container6-1{
+    background-color: rgb(235, 247, 235);
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px;
+    padding-left: 20px;
+    align-items: center;
+    justify-content: space-around;
+    column-gap: 250px;
+    row-gap: 50;
+ }
+
+#g4{
+    border: 3px solid rgb(2, 2, 0);
+    border-radius: 15px;
+    border-left: 5px;
+    border-color: rgb(224, 222, 173);
+    padding: 5px;
+    align-items: center;
+    
+}
+#g5{
+    border: 3px solid rgb(2, 2, 0);
+    border-radius: 15px;
+    border-left: 5px;
+    border-color: rgb(224, 222, 173);
+    padding: 5px;
+    align-items: center;
+    
+}
+#g5{
+    border: 3px solid rgb(2, 2, 0);
+    border-radius: 15px;
+    border-left: 8px;
+    border-color: rgb(224, 222, 173);
+    padding: 5px;
+    align-items: center;
+
+}
